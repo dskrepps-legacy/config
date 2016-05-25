@@ -32,6 +32,8 @@
     "coherent": "^0.1.0"
   },
   "devDependencies": {
-    "rimraf": "^2.5.2"
+    "rimraf": "^2.5.2",
+    "tap-spec": "^4.1.1",
+    "tape": "^4.5.1"
   }
 }
