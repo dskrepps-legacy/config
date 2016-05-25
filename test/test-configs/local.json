@@ -1,0 +1,7 @@
+{
+	"testLocal":       "local.json",
+	"testNODE_CONFIG": "local.json",
+	"testCmdArgs":     "local.json",
+	"testAdditional1": "local.json",
+	"testAdditional2": "local.json"
+}

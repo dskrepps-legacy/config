@@ -1,0 +1,10 @@
+{
+	"shouldnt load": "because the test should be in development env",
+	"testArgument":    "production.json",
+	"testDefault":     "production.json",
+	"testLocal":       "production.json",
+	"testNODE_CONFIG": "production.json",
+	"testCmdArgs":     "production.json",
+	"testAdditional1": "production.json",
+	"testAdditional2": "production.json"
+}

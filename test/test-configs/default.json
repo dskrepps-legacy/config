@@ -1,0 +1,8 @@
+{
+	"testDefault":     "default.json",
+	"testLocal":       "default.json",
+	"testNODE_CONFIG": "default.json",
+	"testCmdArgs":     "default.json",
+	"testAdditional1": "default.json",
+	"testAdditional2": "default.json"
+}

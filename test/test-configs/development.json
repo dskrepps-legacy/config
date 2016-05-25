@@ -1,0 +1,8 @@
+{
+	"testEnv":         "development.json",
+	"testLocal":       "development.json",
+	"testNODE_CONFIG": "development.json",
+	"testCmdArgs":     "development.json",
+	"testAdditional1": "development.json",
+	"testAdditional2": "development.json"
+}

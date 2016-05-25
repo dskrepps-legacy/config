@@ -1,0 +1,37 @@
+{
+  "name": "@dskrepps/config",
+  "version": "0.1.0",
+  "description": "Simple but powerful Node.js config loader",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "pretest": "NODE_CONFIG=\"{\\\"testNODE_CONFIG\\\":\\\"NODE_CONFIG\\\"}\"",
+    "test": "node ./test/*.js --testCmdArgs \"cmd arg\" | tap-spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dskrepps/config.git"
+  },
+  "keywords": [
+    "configuration",
+    "configure",
+    "config"
+  ],
+  "author": "DSKrepps <dskrepps@gmail.com> (https://github.com/DSKrepps)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dskrepps/config/issues"
+  },
+  "homepage": "https://github.com/dskrepps/config",
+  "dependencies": {
+    "deep-extend": "^0.4.1",
+    "dotty": "0.0.2",
+    "minimist": "^1.2.0",
+    "coherent": "^0.1.0"
+  },
+  "devDependencies": {
+    "rimraf": "^2.5.2"
+  }
+}
